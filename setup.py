@@ -13,7 +13,7 @@ setup(
             ".flitton_fib_rs.flitton_fib_rs", path="Cargo.toml", binding=Binding.PyO3
         )
     ],
-    packages=["flitton_fib_sjr_rs"],
+    packages=["flitton_fib_rs"],
     classifiers=[
         "License :: OSI Approved :: MIT License",
         "Development Status :: 3 - Alpha",
