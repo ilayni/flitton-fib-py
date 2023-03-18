@@ -8,6 +8,7 @@ from setuptools_rust import Binding, RustExtension
 setup(
     name="flitton-fib-rs",
     version="0.1",
+    author="Steve Russo",
     rust_extensions=[
         RustExtension(
             ".flitton_fib_rs.flitton_fib_rs", path="Cargo.toml", binding=Binding.PyO3
