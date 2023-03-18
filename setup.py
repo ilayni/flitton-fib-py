@@ -6,7 +6,7 @@ from setuptools import setup
 from setuptools_rust import Binding, RustExtension
 
 setup(
-    name="flitton-fib-sjr-rs",
+    name="flitton-fib-rs",
     version="0.1",
     rust_extensions=[
         RustExtension(

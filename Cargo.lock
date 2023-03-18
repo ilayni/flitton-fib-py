@@ -31,7 +31,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "flitton_fib_sjr_rs"
+name = "flitton_fib_rs"
 version = "0.1.0"
 dependencies = [
  "pyo3",

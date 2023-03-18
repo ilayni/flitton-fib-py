@@ -1,5 +1,5 @@
 [package]
-name = "flitton_fib_sjr_rs"
+name = "flitton_fib_rs"
 version = "0.1.0"
 authors = ["Steve Russo <sjrusso8@gmail.com"]
 edition = "2021"
